@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajon74
 - 👀 I’m interested in ..WEB Developing
-- 🌱 I’m currently learning ...WEB Design
+- 🌱 I’m currently learning ...WEB Design.&..UIUX 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
